@@ -1,6 +1,6 @@
-# Music Player
+# Portfolio
 
-Welcome to the Music Player web interface you can play music on your device with your web browser. it background is also changed in the web browser with every changes that make it interesting to play music on your device with your web browser.
+I’m a Full-Stack Developer and UI/UX Designer from Afghanistan. I love building real-world web and mobile applications with clean, scalable code. My focus is on creating interactive, responsive, and user-friendly experiences.
 
 ## Features
 
